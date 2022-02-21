@@ -29,11 +29,11 @@ header > button {
 .navbar {
     display: none;
     font-size: 50px;
-}
+ }
 
 .navbar > a {
     font-size: 1.5rem;
-    margin: 0 20px 0 0;
+    margin: 0 60px 0 0;
 }
 
 /*-------*/
@@ -78,7 +78,7 @@ main h2{
     font-style: normal;
     font-weight: normal;
     font-size: 72px;
-    line-height: 84px;
+    line-height: 125px;
     letter-spacing: 4px;
     color: #FDFDFD;
 }
@@ -102,8 +102,8 @@ main .story-pokemon p{
 }
 
 main .story-pokemon img{
-    margin-right: 200px;
-    height: 300px;
+    margin-right: 15px;
+    height: 390px;
 }
 
 .linha{
@@ -111,10 +111,11 @@ main .story-pokemon img{
     width: 90%;
     background-color: white;
     margin-bottom: 40px;
+   
 }
 
 .atr{
-    margin-top: 20px;
+    margin-top: 35px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -158,11 +159,11 @@ main .story-pokemon img{
 }
 
 .legendaryCard{
-    height: 200px;
+    height: 212px;
 }
 
 .container-selec{
-    margin-top: 30px;
+    margin-top: 77px;
 }
 
 .btn{
@@ -176,7 +177,7 @@ main .story-pokemon img{
 }
 
 body{
-    zoom: 85%;
+    zoom: 100%;
 }
 
 @media (min-width: 481px) {
